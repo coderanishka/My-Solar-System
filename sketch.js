@@ -6,10 +6,10 @@ var sun_radius;
 var bg;
 
 function preload(){
-venus_img = loadImage("assets/planet4.png");
-mercury_img = loadImage("assets/planet1.png");
-sun_img = loadImage("assets/planet2.png");
-mars_img = loadImage("assets/planet3.png");
+venus_img = loadImage("planet4.png");
+mercury_img = loadImage("planet1.png");
+sun_img = loadImage("planet2.png");
+mars_img = loadImage("planet3.png");
 
 }
 
